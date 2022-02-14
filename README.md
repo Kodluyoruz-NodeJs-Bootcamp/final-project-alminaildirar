@@ -36,8 +36,8 @@ In this project, basically, users can add films or actors, see the publicly shar
 1. Clone this repo, install dependencies.
 
 ```makefile
-git clone gh repo clone 
-cd popcorn
+gh repo clone Kodluyoruz-NodeJs-Bootcamp/final-project-alminaildirar
+cd final-project-alminaildirar
 npm install
 ```
 
